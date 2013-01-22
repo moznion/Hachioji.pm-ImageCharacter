@@ -1,4 +1,4 @@
-# This is the Character Image of Hachioji.pm
+# This is the Image Character of Hachioji.pm
 ![Hachioji_pm_logo](https://raw.github.com/moznion/Hachioji.pm-ImageCharacter/master/img/hachioji_pm.png)
 
 # Licenses
